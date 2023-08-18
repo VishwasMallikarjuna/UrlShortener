@@ -27,4 +27,4 @@ https://bitly.com/
     docker pull vishwasmallikarjuna/urlrepo:latest
 
 ## You can run the image by using the command
-    $ docker run --rm -p 8192:8192 vishwasmallikarjuna/urlrepo:latest
+    docker run --rm -p 8192:8192 vishwasmallikarjuna/urlrepo:latest
