@@ -23,7 +23,7 @@ https://bitly.com/
 ## To run locally go installed
 	go run main.go
 
-## You can pull the docker image by using command
+## You can pull the docker image by using the command
     docker pull vishwasmallikarjuna/urlrepo:latest
 
 ## You can run the image by using the command
